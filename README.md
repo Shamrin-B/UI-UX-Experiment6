@@ -150,6 +150,9 @@ Sitemap:
    ├── Help & Support
    └── Logout
 ```
+
+<img width="1855" height="922" alt="image" src="https://github.com/user-attachments/assets/95ba7397-a215-45bf-90b3-42b42f784736" />
+
 Result:
 
 Thus, the UX design activities such as solution ideation, user story creation, scenario development, flow mapping, and information architecture were successfully practiced using a Food Delivery App example to enhance user experience.
